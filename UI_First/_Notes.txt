@@ -1,0 +1,12 @@
+本課堂練習圖檔源自 Christophe Coenraets 先生的 jQuery Mobile 示範範例，
+網址: http://coenraets.org/blog/2011/11/jquery-mobile-getting-started-application/
+
+
+【安裝與注意事項】
+
+1. 執行 Directory_DB_Schema.txt 以建立資料庫與資料。
+
+2. 視需要修改程式或 Web.config 的連線字串，例如:
+   server=(local)\\SQLExpress; 改成 server=(local)
+   Data Source=.\SQLExpress 改成 Data Source=(local)
+
